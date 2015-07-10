@@ -6,9 +6,6 @@ Author: Ying WANG
 Graduate student at University of Michigan -- Ann Arbor
 
 This code is for Insight Data coding challenge. 
-This code is written in python @version 2.7.10 
-=======
-This code is for Insight Data coding challenge. 
 
 This code is written in python @version 2.7.10
 
