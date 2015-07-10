@@ -1,19 +1,17 @@
-#InsightData Challenge
-#Author: Ying Wang
-#This code counts the words in txt file
-
 import sys
 import re
+import os
 
 
-InputFile =sys.argv[1]
-OutputFile = sys.argv[2]
+InputPath =sys.argv[1]
+OutputPath = sys.argv[2]
 WordCount = {}
 
 
-def main():
+def readTweets():
     #Read tweets
-    with open(InputFile, "r") as fileIn:
+    os.chdir(InputPath)
+    with open('tweets.txt', "r") as fileIn:
         tweets = fileIn.read()
         
     countWord(tweets)
@@ -24,14 +22,14 @@ def countWord(tweets):
     
     for word in regex.findall(tweets):
         WordCount[word] = WordCount.setdefault(word,0)+1
-        #set the width of the column to be the max length 
         colWidth = max(len(word),colWidth)
                        
     #write to the output file
-    with open(OutputFile,'w') as out:
+    os.chdir(OutputPath)
+    with open('outV1.txt','w') as out:
         for word in sorted(WordCount):
             print>>out, "".join(word.ljust(colWidth)),"\t\t",WordCount[word]
         
 if __name__ == '__main__'  :
-    main()
+    readTweets()
     
