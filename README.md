@@ -2,12 +2,17 @@ Insight Data Engineering - Coding Challenge
 ===========================================================
 
 Author: Ying WANG 
+
 Graduate student at University of Michigan -- Ann Arbor
 
-This code is for Insight Data coding challenge. \n
-This code is written in python @version 2.7.10 \n
+This code is for Insight Data coding challenge. 
+This code is written in python @version 2.7.10 
+=======
+This code is for Insight Data coding challenge. 
 
-additional modulation: numpy
+This code is written in python @version 2.7.10
 
-If you have any problem with running the program, please contact me @wying@umich.edu
+additional module: numpy
+
+If you have any problem with running the program, please contact me: wying@umich.edu
 
