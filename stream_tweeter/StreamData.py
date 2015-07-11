@@ -19,7 +19,7 @@ class StdOutListener(tweepy.StreamListener):
         # convert UTF-8 to ASCII 
         print '@%s: %s' % (decoded['user']['screen_name'], decoded['text'])
         print ''
-        with open('./tweet_input/tweets1.txt', "a") as tweetFile:
+        with open('./tweet_input/tweets.txt', "a") as tweetFile:
             print>>tweetFile, '@%s: %s' % (decoded['user']['screen_name'], decoded['text'].encode('ascii', 'ignore'))
             
         
