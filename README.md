@@ -2,19 +2,14 @@ Insight Data Engineering - Coding Challenge
 ===========================================================
 
 Author: Ying WANG 
------------------------------------------------------------
 
 Graduate student at University of Michigan -- Ann Arbor
------------------------------------------------------------
 
 If you have any problem with running the program, please contact me: wying@umich.edu
------------------------------------------------------------
 
 This code is for Insight Data coding challenge. 
------------------------------------------------------------
 
 This code is written in python @version 2.7.10
------------------------------------------------------------
 
 
 Additional Modules
@@ -24,6 +19,10 @@ Additional Modules
 additional module: numpy
 
 In order to run stream_tweeter/StreamData.py you will need additional module: tweepy
+
+
+File Strcture
+===========================================================
 
 
 File src/words_tweeted.py counts the frequency that each word appears in the tweets.txt.
