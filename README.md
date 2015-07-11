@@ -25,17 +25,21 @@ File Strcture
 ===========================================================
 
 
-File src/words_tweeted.py counts the frequency that each word appears in the tweets.txt.
+#### File src/words_tweeted.py 
+counts the frequency that each word appears in the tweets.txt.
 
 
 it coverts all letters to lower cases. e.g. "YOU" is the same as "you"
 
-File src/median_unique.py updates the number of unique words in each tweet as the tweet comes in.
+#### File src/median_unique.py
+updates the number of unique words in each tweet as the tweet comes in.
 
 
 it coverts all letters to lower cases. e.g. "YOU" is the same as "you"
 
-File stream_tweeter/StreamData.py accesses the tweeter API and stream the real time tweets from tweeter.com
+
+#### File stream_tweeter/StreamData.py 
+accesses the tweeter API and stream the real time tweets from tweeter.com
 
 
 and save the tweets in tweet_input/tweets.txt
