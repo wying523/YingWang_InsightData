@@ -19,6 +19,8 @@ def main():
     #Read tweets
     with open(InputFile, "r") as fileIn:
         tweets = fileIn.readlines()
+        #consider only lower cases
+        tweets = [item.lower() for item in tweets]
         
     for oneTweet in tweets:
         Words = library.findall(oneTweet)

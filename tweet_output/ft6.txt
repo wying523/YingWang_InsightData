@@ -1,771 +1,471 @@
-"Chopped"                  		78
-"Iron                      		78
-"It                        		61
-"May                       		26
-"The                       		78
-"We                        		139
-"covers                    		61
-"dismissed                 		61
-"improved                  		61
-"robo-signed"              		61
-"stopped                   		61
-#analytics                 		27
-#bigdata                   		72
-#budget                    		9
-#kdn                       		27
-#smb                       		27
--                          		24
-1                          		1
-1,                         		61
-12                         		1
-12-11.                     		1
-17                         		96
-20-20.                     		1
-2007.                      		1
-2009,                      		61
-2011                       		61
-2012                       		1
-2012,                      		1
-2013.                      		1
-2014.                      		61
-21-year-old                		18
-21st,                      		1
-30                         		1
-30,                        		61
-34,000                     		61
-5                          		1
-528,000                    		61
-77                         		1
-;                          		78
-@cxotodayalerts            		27
-@lavanyarathnam            		27
-ALL                        		1
-African                    		58
-Agnieszka                  		2
-Also,                      		61
-America."                  		78
-American                   		177
-Amex                       		142
-Andy                       		1
-Apple                      		280
-As                         		71
-Attorney                   		61
-Bank                       		61
-Bankcard                   		61
-Becker                     		1
-Before                     		95
-Big                        		1
-Bolivia                    		78
-Boris                      		1
-British                    		2
-Bureau,                    		61
-Burger                     		78
-But                        		2
-Buy                        		71
-Capitol,                   		95
-Carolina                   		95
-Celebrity                  		78
-Charleston.                		95
-Chase                      		610
-Checkout,                  		71
-Chef                       		78
-Church.                    		58
-City                       		78
-Civil                      		35
-Club                       		78
-Coming                     		24
-Confederate                		130
-D.C.,                      		78
-Djokovic                   		7
-Djokovic's                 		2
-Donald                     		78
-Dylann                     		18
-EE                         		1
-Email:                     		61
-Emanuel                    		58
-Even                       		140
-Express                    		213
-Farm                       		24
-Federer                    		8
-Federer,                   		1
-Financial                  		61
-Food                       		78
-Four,                      		1
-Francis                    		78
-French                     		1
-Frenchman                  		2
-Friday's                   		1
-Friday,                    		1
-Garbine                    		2
-Gasquet                    		2
-Gasquet,                   		1
-General                    		61
-Geoffrey                   		78
-Google                     		71
-Gov.                       		95
-Grand                      		1
-Haley                      		284
-He                         		81
-Hoffman                    		61
-Hospitality                		78
-I                          		78
-In                         		155
-Inc.                       		61
-Indoor                     		24
-J.                         		61
-JPMorgan                   		61
-Jan.                       		61
-Jersey,                    		61
-John                       		61
-June                       		156
-King                       		78
-Kingdom.                   		1
-Kitchen"                   		78
-Lambs                      		78
-Largest                    		24
-ListofNum)                 		2
-London                     		1
-Many                       		35
-Maria                      		2
-MasterCard                 		71
-Methodist                  		58
-Mexican                    		78
-Muguruza                   		2
-Murray                     		8
-NBC                        		24
-Network                    		78
-New                        		139
-Newark                     		24
-Newegg                     		71
-News                       		9
-NewsWorld's                		15
-Nikki                      		95
-Novak                      		1
-Olympics                   		1
-One                        		1
-Open                       		2
-PDT,                       		1
-Parker.                    		71
-Pay                        		140
-PayPal                     		71
-Plus,                      		1
-Police                     		78
-Pope                       		78
-Protection                 		61
-RELATED                    		1
-Radwanska                  		2
-Related                    		1
-Republican                 		78
-Richard                    		1
-Roger                      		1
-Roof                       		35
-Roof,                      		18
-SPORTS                     		1
-Scotland,                  		1
-Serena                     		2
-Services                   		61
-Sharapova                  		2
-Slam                       		1
-South                      		95
-Stan                       		1
-Switzerland.               		1
-That                       		53
-The                        		566
-Their                      		58
-Thursday                   		173
-Ticketmaster,              		71
-To                         		1
-Trump's                    		78
-U.S.                       		1
-USA                        		61
-Under                      		61
-United                     		1
-Vertical                   		24
-Visa                       		71
-War                        		35
-Warby                      		71
-Washington,                		78
-Wawrinka                   		2
-Were                       		1
-Williams                   		2
-Wimbledon                  		8
-Wimbledon.                 		1
-World's                    		9
-York                       		78
-Zakarian                   		234
-a                          		1337
-a.m.                       		1
-aa                         		18
-aaa                        		27
-about                      		113
-according                  		61
-accounts                   		193
-accused                    		61
-act                        		76
-act.                       		1
-acting                     		61
-action                     		61
-actions                    		87
-activity,                  		61
-actually                   		61
-adding                     		95
-advance                    		2
-affected                   		61
-affidavits                 		122
-after                      		193
-against                    		305
-agencies                   		61
-ago                        		61
-ago.                       		1
-agreement                  		61
-all                        		139
-alleged                    		61
-almost                     		1
-also                       		35
-alternative                		71
-an                         		246
-and                        		2032
-answer                     		27
-anybody                    		1
-appeared                   		78
-appears                    		61
-apps                       		71
-apps.                      		211
-are                        		474
-around                     		19
-as                         		347
-astrazeneca                		27
-at                         		303
-athlete                    		1
-atq                        		24
-atv                        		1
-atvq                       		3
-authenticated              		61
-author.                    		78
-auto-fills                 		71
-b                          		105
-bag:                       		78
-bankruptcy,                		61
-battle                     		95
-bb                         		27
-be                         		63
-beat                       		4
-beaten                     		1
-beats                      		2
-becoming                   		1
-been                       		62
-being                      		27
-between                    		61
-big                        		54
-billing                    		211
-black                      		190
-blood                      		1
-borrowers                  		61
-both                       		1
-built                      		78
-business                   		78
-business.                  		27
-businesses                 		35
-businesses:                		27
-button                     		71
-buttons                    		140
-buyers                     		61
-by                         		252
-c                          		105
-calculation                		61
-can                        		71
-candidate's                		78
-card                       		274
-cardholders                		71
-career                     		1
-caught,                    		18
-cause                      		61
-certain                    		61
-chain                      		58
-champion                   		1
-chance                     		1
-change                     		96
-check                      		71
-checking                   		71
-checkout                   		71
-chef                       		156
-church                     		95
-citizenship                		1
-close                      		1
-coached                    		1
-collection                 		122
-collections                		305
-comes                      		132
-comments                   		78
-commerce                   		140
-companies                  		142
-company                    		132
-compassion                 		18
-competing                  		71
-competition                		140
-competitors                		71
-complete                   		61
-computers                  		71
-confessed                  		18
-confirmed                  		1
-consider                   		1
-consumer                   		61
-consumers                  		305
-consumers,                 		61
-consumers.                 		61
-contentious                		95
-continues                  		71
-continuing                 		78
-country                    		18
-court                      		18
-creating                   		132
-credit                     		386
-credit-card                		244
-crowded,                   		71
-crucial                    		1
-culmination                		95
-culture                    		78
-culture.                   		35
-customers                  		61
-customers,''               		61
-d                          		264
-data                       		27
-days                       		35
-dead                       		78
-debate                     		35
-debt                       		244
-debt"                      		61
-debt-collection            		61
-decision                   		61
-defaulted                  		61
-defeated                   		1
-defeats                    		2
-defending                  		1
-deployed                   		27
-desktop                    		71
-details                    		140
-dictate                    		1
-difficulty                 		61
-discharged                 		61
-discussed                  		35
-dramatic                   		1
-e                          		78
-e-commerce                 		71
-easier                     		71
-easily                     		71
-effective                  		27
-efforts                    		61
-emailed                    		61
-emblem                     		35
-emerged                    		35
-employment,                		61
-employs                    		78
-end                        		27
-engaged                    		61
-enter                      		71
-entering                   		140
-errors                     		61
-especially                 		140
-estate.                    		71
-even                       		2
-events                     		58
-ever                       		1
-f                          		123
-face                       		61
-faith,                     		58
-fall                       		140
-false,"                    		61
-family                     		78
-faster                     		71
-fellow                     		1
-fields.                    		71
-filing                     		61
-fina                       		1
-final                      		8
-final,                     		2
-finally                    		27
-first                      		2
-five-set                   		1
-flag                       		165
-flag's                     		93
-flag,                      		35
-for                        		395
-forgave                    		18
-forget                     		26
-forgiveness,               		18
-forward                    		78
-found                      		78
-from                       		613
-future                     		139
-game's                     		1
-get                        		27
-getting                    		72
-girl                       		78
-goes                       		1
-gold                       		1
-governor                   		26
-grew                       		1
-grounds.                   		32
-grounds.is                 		3
-grow                       		71
-h                          		78
-had                        		245
-halt                       		61
-halted.                    		61
-has                        		204
-have                       		62
-he                         		159
-head-to-heads.             		1
-healthcare                 		27
-her                        		95
-here                       		2
-here.                      		2
-him                        		97
-him.                       		18
-his                        		4
-historically               		95
-history,                   		1
-home.                      		1
-honorary                   		1
-hoping                     		78
-host                       		78
-hot                        		140
-hotel                      		78
-housing,                   		61
-how                        		27
-http://abcn.ws/1CsLBD6     		78
-http://bddy.me/1bzukb3     		27
-http://ow.ly/o8gt3         		27
-http://ow.ly/ot2uj         		27
-http://yhoo.it/1UHnfeB     		78
-i                          		78
-identify                   		78
-image                      		78
-images,                    		35
-immigrants                 		78
-immigrants,                		78
-immigrants.                		78
-impacted                   		61
-in                         		1105
-inaccurate                 		122
-inaccurate,                		122
-included                   		62
-included."                 		78
-including                  		61
-information                		254
-instances,                 		61
-insurance,                 		61
-interview:                 		27
-into                       		320
-introducing                		71
-is                         		726
-issues                     		122
-it                         		123
-its                        		500
-j                          		78
-judgments                  		122
-judgments.                 		61
-just                       		88
-k                          		78
-killed                     		95
-killer,                    		18
-knows                      		1
-last                       		142
-later.                     		45
-later.q                    		12
-later.v                    		1
-launch                     		140
-law                        		95
-lawsuits                   		61
-lawsuits''                 		61
-leads                      		141
-led                        		58
-legacy                     		61
-legislation,               		95
-lender                     		61
-less                       		58
-like                       		71
-list                       		1
-litigation                 		61
-longer                     		61
-look                       		78
-loss                       		1
-lost                       		1
-love                       		58
-lower                      		140
-loyalty,                   		1
-major                      		62
-make                       		72
-making                     		36
-man                        		97
-many                       		79
-match                      		1
-match.                     		1
-matches                    		1
-matches.                   		1
-measure                    		95
-medal                      		1
-meeting                    		95
-members                    		166
-men's                      		2
-merchants                  		71
-method                     		71
-misreported,               		61
-mobile                     		351
-money                      		61
-month                      		58
-more                       		265
-most                       		1
-motion                     		58
-motivated                  		18
-move                       		71
-movement                   		95
-murders                    		95
-must                       		61
-my                         		156
-nation                     		78
-nations                    		78
-nationwide                 		35
-net.                       		1
-never                      		27
-new                        		78
-newman@northjersey.com     		22
-newman@northjersey.comThe  		38
-newman@northjersey.comvThe 		1
-nine                       		95
-no                         		61
-not                        		332
-noted                      		18
-notify                     		61
-nuisance                   		140
-o                          		78
-obtaining                  		61
-of                         		1174
-officials                  		35
-offline                    		71
-on                         		1080
-once                       		1
-one                        		1
-online                     		71
-only                       		1
-opening                    		1
-or                         		193
-other                      		1
-otherwise                  		61
-our                        		61
-out                        		142
-over                       		157
-owed                       		122
-own                        		142
-p                          		78
-pages                      		71
-partner                    		78
-partnering                 		71
-passwords                  		71
-pay                        		71
-payment                    		142
-payment,                   		140
-people                     		44
-percentage                 		61
-perfect                    		1
-perhaps                    		1
-phones.                    		1
-phones.The                 		70
-photos                     		35
-pick-'em.                  		1
-place                      		35
-plain                      		61
-play                       		1
-playing                    		1
-pleased                    		61
-plug                       		78
-point                      		26
-popular                    		1
-posing                     		35
-potential                  		61
-poverty?                   		27
-practices,                 		61
-prayer                     		95
-pre-Mass                   		78
-presidential               		78
-press                      		61
-previously                 		1
-problem,                   		140
-processes.''               		61
-program                    		78
-promise                    		27
-public                     		70
-pulling                    		78
-purchase                   		140
-pursued                    		61
-q                          		39
-quarterfinals.             		1
-queen,                     		1
-quite                      		1
-r                          		156
-racism.                    		35
-rates.                     		140
-reach                      		3
-real                       		71
-really                     		1
-received                   		61
-recent                     		1
-record.                    		1
-reform                     		61
-reignited                  		95
-relatives                  		18
-release                    		78
-release,                   		61
-relic                      		35
-remediation                		61
-removal                    		58
-remove                     		95
-removing                   		35
-report                     		61
-reporting                  		61
-reporting,                 		61
-request                    		61
-resolve                    		61
-restarted.''               		61
-restaurant                 		78
-restaurants,"              		78
-resulted                   		61
-retail,                    		71
-revenge                    		1
-rooted                     		1
-ruined                     		1
-s                          		78
-said                       		340
-said,                      		76
-said.                      		161
-said.In                    		4
-sales                      		61
-screens                    		140
-second                     		1
-second,                    		1
-seeded                     		2
-seen                       		35
-selling                    		35
-semifinal                  		3
-semifinals.                		1
-series,                    		1
-set                        		59
-settled,                   		61
-settlement                 		61
-settlement,                		61
-settlement.                		61
-seven.                     		1
-several                    		61
-shipping                   		211
-shootings,                 		35
-shopping                   		142
-side                       		1
-signature                  		95
-signed                     		95
-significantly              		71
-sites                      		71
-sites,                     		71
-small                      		228
-so                         		72
-sold                       		61
-solve                      		140
-some                       		61
-sparked                    		53
-spoke                      		95
-spokesman                  		61
-spot                       		1
-staffers                   		61
-stardom                    		1
-starts                     		1
-state                      		95
-statement                  		61
-statement.                 		122
-stopped                    		35
-stops                      		78
-subjected                  		61
-subsidiaries               		61
-such                       		71
-t                          		325
-tech                       		71
-tell                       		1
-than                       		251
-that                       		640
-that,                      		1
-the                        		2616
-their                      		276
-theirs.                    		61
-them                       		62
-then,                      		1
-there                      		2
-these                      		133
-they                       		175
-things.                    		18
-third.                     		1
-this                       		245
-those                      		87
-three                      		62
-thriller.                  		1
-times                      		1
-title                      		2
-title.                     		1
-titles,                    		1
-to                         		1590
-to-head                    		1
-today                      		71
-today,"                    		26
-took                       		26
-tool                       		71
-tournaments                		1
-trash                      		78
-trying                     		140
-tt                         		11
-twice                      		1
-u                          		78
-uncollectable,             		61
-us                         		26
-use                        		71
-usernames                  		71
-using                      		122
-v                          		32
-victims                    		18
-victims,                   		95
-victory                    		2
-vying                      		71
-w                          		78
-wang,                      		27
-wardrobe                   		78
-warmup                     		1
-was                        		376
-wave                       		18
-we                         		26
-websites                   		142
-welcomed                   		95
-well                       		78
-well,                      		1
-were                       		278
-what                       		1
-when                       		80
-where                      		140
-whether                    		71
-which                      		62
-white                      		95
-who                        		342
-will                       		248
-win                        		1
-winning                    		1
-wishes                     		1
-with                       		237
-won                        		3
-working                    		61
-world,                     		78
-would                      		1
-x                          		78
-xia                        		27
-y                          		78
-year's                     		2
-year,                      		1
-years                      		63
-years-long                 		95
-z                          		78
-—                        		1
-‘                        		78
+11.00
+12.50
+14.00
+12.50
+11.00
+11.00
+11.00
+12.50
+11.00
+11.00
+11.00
+11.00
+11.00
+11.00
+11.00
+11.00
+11.00
+11.00
+11.00
+12.50
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+15.50
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+15.50
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+15.50
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+15.50
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+15.50
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+15.50
+14.00
+15.50
+14.00
+14.00
+14.00
+15.50
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+15.50
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+14.00
+15.50
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.00
+17.50
+18.00
+18.00
+18.00

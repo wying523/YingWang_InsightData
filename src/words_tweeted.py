@@ -5,10 +5,10 @@
 import sys
 import re
 
-
+WordCount = {}
 InputFile = sys.argv[1]
 OutputFile = sys.argv[2]
-WordCount = {}
+
 
 
 def main():
@@ -19,6 +19,8 @@ def main():
     countWord(tweets)
 
 def countWord(tweets):
+    #consider only lower cases
+    tweets = tweets.lower()
     library = re.compile(r"\S+", re.IGNORECASE)
     colWidth = 0
     
